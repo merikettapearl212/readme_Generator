@@ -52,3 +52,20 @@ const promptUser = () => {
 
   ]);
 };
+
+const init = async () => {
+  console.log('hi');
+  try {
+    const answers = await promptUser();
+
+    const readMe = generateReadme(answers);
+
+    await writeFileAsync('README.md', readMe);
+
+    console.log('Successfully wrote README.md');
+  } catch (err) {
+    console.log(err);
+  }
+};
+
+init();
