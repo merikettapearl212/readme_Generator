@@ -13,4 +13,6 @@ Below is video showing the functionality of the application: <br />
 [Meagan James](https://github.com/merikettapearl212)
 
 ## Questions 
-Contact me with any questions: [email](mailto:merikettapearl212@gmail.com) , [GitHub](https://github.com/merikettapearl212)
+Repo: (https://github.com/merikettapearl212/readme_Generator)<br />
+GitHub: [merikettapearl212](https://github.com/merikettapearl212)<br />
+  <br />
