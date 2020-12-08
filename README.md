@@ -13,6 +13,6 @@ Below is video showing the functionality of the application: <br />
 [Meagan James](https://github.com/merikettapearl212)
 
 ## Questions 
-Repo: (https://github.com/merikettapearl212/readme_Generator)<br />
+Repo: https://github.com/merikettapearl212/readme_Generator<br />
 GitHub: [merikettapearl212](https://github.com/merikettapearl212)<br />
   <br />
