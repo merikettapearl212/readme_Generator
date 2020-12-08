@@ -4,15 +4,15 @@ function generateReadme(answers) {
   # ${answers.projectTitle}
 
   ## Description
-  # ${answers.description}
+   ${answers.description}
 
   ## Table of Contents
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Tests](#tests)
-  -[Questions](#questions)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
   ## Installation
   ${answers.installation}
