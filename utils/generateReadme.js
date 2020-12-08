@@ -32,7 +32,7 @@ function generateReadme(answers) {
   ## Questions
   ${answers.questions}
   Find me on Github:
-  ${answers.username}
+  [${answers.username}](https://github.com/${answers.username})
   Email me:
   ${answers.email}
 
