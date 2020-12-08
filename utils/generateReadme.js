@@ -21,7 +21,7 @@ function generateReadme(answers) {
   ${answers.usage}
 
   ## License
-  ${answers.license}
+  ![badge](https://img.shields.io/badge/license-${answers.license}-yellowgreen)
 
   ## Test instructions
   ${answers.tests}
