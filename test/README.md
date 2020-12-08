@@ -1,8 +1,8 @@
 
-  # GEnorator
+  # README Generator
 
   ## Description
-   i like to code
+   Dynamically created a command-line application that generates a professional README file
 
   ## Table of Contents
   - [Description](#description)
@@ -13,24 +13,24 @@
   - [Questions](#questions)
 
   ## Installation
-  npm
+  `npm init`, `npm install inquirer`
 
   ## Usage
-  uw
+  UW bootcamp HW-9
 
   ## License
-  ![badge](https://img.shields.io/badge/license-GNU-yellowgreen)
-  This application is covered by theGNUlicense.
+  ![badge](https://img.shields.io/badge/license- Perl -yellowgreen)<br />
+  <br />This application is covered by thePerllicense.<br />
 
   ## Test instructions
-  no
+  No testing for this project
 
   ## Contributions
-  me
+  Meagan James
 
   ## Questions
-✋ contact e<br />
+✋ Email me or conect through Github<br />
   <br />
-  Find me on GitHub: [merikettapear](https://github.com/merikettapear)<br />
+  Find me on GitHub: [merikettapearl212](https://github.com/merikettapearl212)<br />
   <br />
   Email me with any questions: meagan.sjames212@gmail.com<br /><br />
