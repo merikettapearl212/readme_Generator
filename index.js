@@ -1,10 +1,10 @@
 // Dependancies and variables
 const inquirer = require('inquirer');
 const fs = require('fs');
-const utils = require('utils');
+const util = require('util');
 const generateReadme = require("./utils/generateReadme")
 
-const writeFileAsync = utils.promisify(fs.writeFile);
+const writeFileAsync = util.promisify(fs.writeFile);
 
 
 //Prompts for user to create README.md file
@@ -83,7 +83,7 @@ const init = async () => {
 
     const readMe = generateReadme(answers);
 
-    await writeFileAsync('README.md', readMe);
+    await writeFileAsync('./test/README.md', readMe);
 
     console.log('Successfully wrote README.md');
   } catch (err) {
