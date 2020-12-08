@@ -21,6 +21,7 @@ function generateReadme(answers) {
   ${answers.usage}
 
   ## License
+  This application is covered by the${answers.license}license.
   ![badge](https://img.shields.io/badge/license-${answers.license}-yellowgreen)
 
   ## Test instructions
@@ -31,11 +32,11 @@ function generateReadme(answers) {
 
   ## Questions
   ${answers.questions}
-  <br />
-  Find me on GitHub: [${answers.username}](https://github.com/${answers.username})
-  <br />
-  Email me with any questions: ${answers.email}<br />
-
+  <br/>
+  Find me on GitHub: [${answers.username}](https://github.com/${answers.username})</br>
+  <br/>
+  Email me with any questions: ${answers.email}<br/>
+  </br>
 `;
 }
 
