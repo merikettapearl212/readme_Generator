@@ -1,10 +1,10 @@
 // Dependancies and variables
 const inquirer = require('inquirer');
 const fs = require('fs');
-const util = require('util');
+const utils = require('utils');
 const generateReadme = require("./utils/generateReadme")
 
-const writeFileAsync = util.promisify(fs.writeFile);
+const writeFileAsync = utils.promisify(fs.writeFile);
 
 
 //Prompts for user to create README.md file
