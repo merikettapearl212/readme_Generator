@@ -1,5 +1,11 @@
+// Dependancies and variables
+const inquirer = require('inquirer');
+const fs = require('fs');
+const util = require('util');
+const generateReadme = require("./utils/generateReadme")
 
 
+//Prompts for user to create README.md file
 const promptUser = () => {
   return inquirer.prompt([
     {
