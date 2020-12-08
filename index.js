@@ -4,6 +4,8 @@ const fs = require('fs');
 const util = require('util');
 const generateReadme = require("./utils/generateReadme")
 
+const writeFileAsync = util.promisify(fs.writeFile);
+
 
 //Prompts for user to create README.md file
 const promptUser = () => {
