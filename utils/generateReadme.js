@@ -30,12 +30,11 @@ function generateReadme(answers) {
   ${answers.contributions}
 
   ## Questions
-  Contact me with any questions
-  ${answers.questions}
-  Find me on Github:
-  [${answers.username}](https://github.com/${answers.username})</br>
-  Email me:
-  ${answers.email}
+  ${answers.questions}<br />
+  <br />
+  Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
+  <br />
+  Email me with any questions: ${answers.email}<br />
 
 `;
 }
