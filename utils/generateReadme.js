@@ -21,8 +21,9 @@ function generateReadme(answers) {
   ${answers.usage}
 
   ## License
-  ![badge](https://img.shields.io/badge/license- ${answers.license} -yellowgreen)<br />
-  <br />This application is covered by the${answers.license}license.<br />
+  ![badge](https://img.shields.io/badge/license-${answers.license}-yellowgreen)
+  <br />
+  This application is covered by the ${answers.license} license.
 
   ## Test instructions
   ${answers.tests}
@@ -31,7 +32,7 @@ function generateReadme(answers) {
   ${answers.contributions}
 
   ## Questions
-✋ ${answers.questions}<br />
+  ${answers.questions}<br />
   <br />
   Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
   <br />

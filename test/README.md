@@ -16,11 +16,12 @@
   `npm init`, `npm install inquirer`
 
   ## Usage
-  UW bootcamp HW-9
+  UW-bootcamp HW-9
 
   ## License
-  ![badge](https://img.shields.io/badge/license- Perl -yellowgreen)<br />
-  <br />This application is covered by thePerllicense.<br />
+  ![badge](https://img.shields.io/badge/license-MIT-yellowgreen)
+  <br />
+  This application is covered by the MIT license.
 
   ## Test instructions
   No testing for this project
@@ -29,7 +30,7 @@
   Meagan James
 
   ## Questions
-✋ Email me or conect through Github<br />
+  Email or connect through Github<br />
   <br />
   Find me on GitHub: [merikettapearl212](https://github.com/merikettapearl212)<br />
   <br />
