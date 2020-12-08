@@ -2,7 +2,7 @@
   # README Generator
 
   ## Description
-  # Dynamically created a command-line application that generates a professional README file
+  Dynamically created a command-line application that generates a professional README file
 
   ## Table of Contents
   -[Description](#description)
