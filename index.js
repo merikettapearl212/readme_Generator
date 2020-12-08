@@ -31,7 +31,7 @@ const promptUser = () => {
       message: 'What is this project usage for?',
     },
     {
-      type: 'input',
+      type: 'list',
       name: 'license',
       message: '"Chose the appropriate license for this project:',
       choices: [
