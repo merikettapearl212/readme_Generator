@@ -23,10 +23,14 @@ function generateReadme(answers) {
   ## License
   ${answers.license}
 
-  ## Tests
+  ## Test instructions
   ${answers.tests}
 
-  ## Contact
+  ## Contributions
+  ${answers.contributions}
+
+  ## Questions
+  ${answers.questions}
   Find me on Github:
   ${answers.username}
   Email me:

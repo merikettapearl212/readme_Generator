@@ -35,9 +35,32 @@ const promptUser = () => {
       name: 'license',
       message: '"Chose the appropriate license for this project:',
       choices: [
-        
+        "Apache",
+        "GNU",
+        "MIT",
+        "Perl",
+        "Zlib"
     ]
     },
+
+    {
+      type: "input",
+      name: "contributions",
+      message: "Who are the contributors of this project?"
+    },
+
+    {
+      type: "input",
+      name: "tests",
+      message: "Is there a test included?"
+    },
+
+    {
+      type: "input",
+      name: "questions",
+      message: "If I have any questions? "
+    },
+
     {
       type: 'input',
       name: 'username',
